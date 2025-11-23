@@ -1,6 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog. It is a funny thing to observe the noobs.
 
-There is a place named by your intension, you can describe as much as you can
 ---
 
