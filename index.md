@@ -1,6 +1,5 @@
 ---
-title: Adventure in the sphere 
-date: 23.11.2025
+title: activate your brain and do not choose the fish and chips version of it. 
 
 ---
 
