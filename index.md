@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog. It is a funny thing to observe the noobs.
+title: Welcome to my blog. Jobalert is watching you. You are a nice guy, aren't you ? 
+
 
 ---
 
